@@ -1,5 +1,9 @@
 .carousel-caption{
-    top: 50%;
-    transform: translateY(-50%);
+    top: 45%;
+    transform: translateY(-45%);
     bottom: initial;
+}
+
+.iamge-brightness {
+    filter: brightness(80%);
 }
